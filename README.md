@@ -42,15 +42,17 @@ Increments a counter if the user appears drowsy.
 If drowsiness is detected for more than the allowed frames, an alert is displayed and the counter reset.
 Real-time Display: Shows the live feed with contours around the eyes and messages indicating the state of the user.
 Exiting the Program: The application can be exited by pressing q.
-Folder structure of the program:
-Computer-Vision-Projects
-└── Blinking and Drowsiness Detection/
-    ├── Dataset/
-    │   └── shape_predictor_68_face_landmarks.dat
-    └── main.py
-    └──assets/
-        └── 1.jpg
-        └── images.jpg
+
+
+<img width="784" height="429" alt="Screenshot 2025-11-07 161719" src="https://github.com/user-attachments/assets/d0980493-0ad8-4730-bbde-b7bc12ac9e2c" />
+
+
+
+
+
+
+
+
    
 Running the script
 Clone the Blinking-Detection repository:
