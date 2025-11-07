@@ -14,6 +14,10 @@ Features
 
 ✅ Works on any webcam
 
+
+Download dataset from https://huggingface.co/matt3ounstable/dlib_predictor_recognition/blob/main/shape_predictor_68_face_landmarks.dat 
+
+
 Technologies Used
 
 Python 🐍
